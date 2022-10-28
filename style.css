@@ -39,10 +39,13 @@
   margin: 0;
   padding: 0px;
 }
-.task-list-point, .title {
+.task-list-point, 
+.title {
   list-style: none;
 }
-.input-checkbox, .task, .btn{
+.input-checkbox, 
+.task, 
+.btn{
   outline: none;
 }
 .btn{

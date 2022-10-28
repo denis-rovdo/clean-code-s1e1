@@ -36,7 +36,7 @@ var createNewTaskElement=function(taskString){
 
     label.innerText=taskString;
     label.className='task';
-    label.classList.add('task-edit');
+
    
     
 
